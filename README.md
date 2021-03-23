@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently working on NLP Labs in 'Kookmin University'. 
+
 <!--
 **HyejinWon/HyejinWon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
