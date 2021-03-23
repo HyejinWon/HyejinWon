@@ -2,6 +2,8 @@
 
 I'm currently working on NLP Labs in 'Kookmin University'. 
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyejini@kookmin.ac.kr)](mailto:hyejini@kookmin.ac.kr)
+
 <!--
 **HyejinWon/HyejinWon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
