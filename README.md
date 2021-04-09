@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm doing my master’s in the Kookmin University NLP lab. I’m interesting in NLP and Machine Learning.
+Hi, There! I'm current Master student in Computer Science at Kookmin University. And I'm part of the Natural Language Processing(NLP) Lab.
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyejini@kookmin.ac.kr)](mailto:hyejini@kookmin.ac.kr)
 
