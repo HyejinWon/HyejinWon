@@ -2,6 +2,10 @@
 
 Hi, There! I'm current Master student in Computer Science at Kookmin University. And I'm part of the Natural Language Processing(NLP) Lab.
 
+If you wanna see more detail about me, please visit my blogs!
+- [naver blog](https://blog.naver.com/wonwone567)
+- [git blog](https://hyejinwon.github.io/)
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyejini@kookmin.ac.kr)](mailto:hyejini@kookmin.ac.kr)
 
 <!--
