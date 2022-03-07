@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, There! I'm current Master student in Computer Science at Kookmin University. And I'm part of the Natural Language Processing(NLP) Lab.
+Hi, There! I'm Master in Computer Science. My major is Natural Language Processing.
 
 **Interesting**
 - Natural Language Processing
